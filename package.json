@@ -1,0 +1,14 @@
+{
+  "name": "lockscreen-backend",
+  "version": "1.0.0",
+  "description": "Lockscreen app backend - Cloudflare Worker",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "logs": "wrangler tail"
+  },
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  }
+}

@@ -1,0 +1,6 @@
+name = "lockscreen-backend"
+main = "src/index.js"
+compatibility_date = "2024-06-12"
+compatibility_flags = ["nodejs_compat"]
+
+assets = { directory = "assets" }
